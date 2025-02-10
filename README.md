@@ -1,4 +1,4 @@
-# my-repository-
+# prédiction de la valeur d'un stock
 il s'agit de construire le modèle adéquat permettant de prévoir la série chronologique. Pour ce faire,
 
 1. Récupérer le fichier des données (la base de données Stock_index_BBC est une série temporelle qui représente La valeur quotidien d’un stock .) Sur Python.
